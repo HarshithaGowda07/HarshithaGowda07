@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshithaGowda07
 - 👀 I’m an Aspiring programmer
-- 📫 How to reach me:mail-id:owdasaanvi15@gmail.com
+- 📫 How to reach me:mail-id:gowdasaanvi15@gmail.com
                       Mobile number:9345566490
 
 <!---
